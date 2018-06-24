@@ -1,4 +1,4 @@
-#Auto-Login Bot with Python and Selenium
+# Auto-Login Bot with Python and Selenium
 
 Creates a simple auto-login bot to log in to Gmail accounts.
 
